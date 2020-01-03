@@ -7,7 +7,7 @@
   
   /* Main Styling */
   html,body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Nunito', sans-serif;
     line-height: 1.7em;
   }
   
@@ -19,11 +19,13 @@
   h1, h3 {
     padding-bottom: 20px;
     color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Nunito', sans-serif;
   }
+
   h3 {
       font-size: 30px;
   }
+  
   p {
     margin: 10px 0;
   }
